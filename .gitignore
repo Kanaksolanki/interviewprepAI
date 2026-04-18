@@ -2,8 +2,4 @@ __pycache__/
 *.pyc
 .env
 venv/
-.env.*
-*.log
-.DS_Store
-
 test_resume.py
